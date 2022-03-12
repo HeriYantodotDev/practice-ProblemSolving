@@ -1,7 +1,7 @@
 def main():    
     print(fct ('fboaor',2))
     print(fct ('fbboaaorz',3))
-    print(fct ('sejpgoagkmse',5))
+    print(fct ('sejpgoagkmse',3))
 
 def fct(arg1,arg2):
 
