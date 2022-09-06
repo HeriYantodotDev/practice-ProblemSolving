@@ -26,3 +26,6 @@ Create a function that takes an array of numbers and a target number. The functi
 
 Solution : 
 JS : https://github.com/tukang-logika/practice/blob/main/findvariable.js
+
+# practice
+adsfasadf
