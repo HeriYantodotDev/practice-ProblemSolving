@@ -1,9 +1,7 @@
 # practice
----
 This repository is a collection of algorithm problems and answers, which are parts of my learning journey. Please feel free to give any feedback on the solutions. 
 
 ##  String Modification
----
 Create a function which takes two arguments, a string and a number. Return a list which consists of several string items, and the length of the list and strings are the same as the second argument. Each item in the list is derived from the order number based on the second argument. 
 Example:
 
@@ -17,7 +15,6 @@ Solution:
 Python : [fct.py](./fct.py "Solution in Py")
 
 ## Clean The Room Function
----
 given an input of [1,2,4,591,392,391,2,5,10,2,1,1,1,20,20], make a function that organizes these into individual array that is ordered. 
 
 For example answer(ArrayFromAbove) should return: [[1,1,1,1],[2,2,2], 4,5,10,[20,20], 391, 392,591]. 
