@@ -11,7 +11,7 @@ fct('fbboaaorz',3) #['foo', 'bar', 'baz']
 
 fct('sejpgoagkmse',3) #['spam', 'eggs', 'joke']
 
-Solution: 
+**Solution**: 
 Python : [fct.py](./fct.py "Solution in Py")
 
 ## Clean The Room Function
@@ -23,11 +23,13 @@ For example answer(ArrayFromAbove) should return: [[1,1,1,1],[2,2,2], 4,5,10,[20
 Bonus: Make it so it organizes strings differently from number types. 
 i.e. [1, "2", "3", 2] should return [[1,2], ["2", "3"]]
 
-Solution : JS : [cleanTheRoom.js](./cleanTheRoom.js "Solution in JS")
+**Solution** : 
+JS : [cleanTheRoom.js](./cleanTheRoom.js "Solution in JS")
 
 ##  Find Substraction Variable
 Create a function that takes an array of numbers and a target number. The function should find two different numbers in the array that, when added together, give the target number.
 
 For example: answer([1,2,3], 4)should return [1,3]
 
-Solution : [findvariable.js](./findvariable.js "Solution in JS")
+**Solution** : 
+JS: [findvariable.js](./findvariable.js "Solution in JS")
