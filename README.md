@@ -117,6 +117,7 @@ Explanation: Remove 4, 2 and either one of the two 1s or three 3s. 1 and 3 will 
 * We can easily observe that removing [4,2] or either 1 or 3 will give exactly 2 distinct elements which is the minimum answer possible.
 
 **Solution** :
+
 JS: [leastNumber.js](./leastNumber.js "Solution in JS") [LeetCode](https://leetcode.com/submissions/detail/796046055/)
 
 PY : [leastNumber.py](./leastNumber.py "Solution in PY") [LeetCode](https://leetcode.com/submissions/detail/796093250/)
