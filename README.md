@@ -102,20 +102,20 @@ Input: arr = [5,5,4], k = 1
 Output: 1
 
 Explanation: Remove the single 4, only 5 is left.
-* Since k = 1, we will remove exactly 1 element.
-* Removing a single 5 will give the array as [5,4]. So a number of unique elements are 2.
-* Removing a single 4 will give the array as [5,5]. So a number of unique elements are 1.
-* Hence, removing 4 is optimal since it yields a minimum number of unique elements which is 1.
-* The answer is 1.
+- Since k = 1, we will remove exactly 1 element.
+- Removing a single 5 will give the array as [5,4]. So a number of unique elements are 2.
+- Removing a single 4 will give the array as [5,5]. So a number of unique elements are 1.
+- Hence, removing 4 is optimal since it yields a minimum number of unique elements which is 1.
+- The answer is 1.
 
 Example 2:
 Input: arr = [4,3,1,1,3,3,2], k = 3
 Output: 2
 
 Explanation: Remove 4, 2 and either one of the two 1s or three 3s. 1 and 3 will be left.
-* Since k = 3 we will remove exactly three elements from the input array such that a number of unique elements will be minimized.
-* We can easily observe that removing [4,2] or either 1 or 3 will give exactly 2 distinct elements which is the minimum answer possible.
+- Since k = 3 we will remove exactly three elements from the input array such that a number of unique elements will be minimized.
+- We can easily observe that removing [4,2] or either 1 or 3 will give exactly 2 distinct elements which is the minimum answer possible.
 
 **Solution** :
-* JS: [leastNumber.js](./leastNumber.js "Solution in JS") [LeetCode](https://leetcode.com/submissions/detail/796046055/)
-* PY : [leastNumber.py](./leastNumber.py "Solution in PY") [LeetCode](https://leetcode.com/submissions/detail/796093250/)
+- JS: [leastNumber.js](./leastNumber.js "Solution in JS") [LeetCode](https://leetcode.com/submissions/detail/796046055/)
+- PY : [leastNumber.py](./leastNumber.py "Solution in PY") [LeetCode](https://leetcode.com/submissions/detail/796093250/)
