@@ -150,3 +150,10 @@ Output: false
 **Solution** :
 
 - JS: [happyNumber(202).js](./happyNumber(202).js "Solution in JS") [LeetCode](https://leetcode.com/problems/happy-number/submissions/884304280/)
+
+## Spiral Matrix
+
+Here's the problem : [LeetCode Link](https://leetcode.com/problems/spiral-matrix/description/)
+
+**Solution** :
+- JS: [spiralMatrix.js](./spiralMatrix.js "Solution in JS") [LeetCode](https://leetcode.com/problems/spiral-matrix/submissions/884510889/)
