@@ -157,3 +157,10 @@ Here's the problem : [LeetCode Link](https://leetcode.com/problems/spiral-matrix
 
 **Solution** :
 - JS: [spiralMatrix.js](./spiralMatrix.js "Solution in JS") [LeetCode](https://leetcode.com/problems/spiral-matrix/submissions/884510889/)
+
+## Where Will the Ball Fall
+
+Here's the problem: [LeetCode Link](https://leetcode.com/problems/where-will-the-ball-fall/description/)
+
+**Solution** :
+- JS [whereWillTheBallFall.js](./whereWillTheBallFall.js "Solution in JS") [LeetCode](https://leetcode.com/problems/where-will-the-ball-fall/submissions/885552670/)
