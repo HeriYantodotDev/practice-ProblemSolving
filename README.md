@@ -164,3 +164,9 @@ Here's the problem: [LeetCode Link](https://leetcode.com/problems/where-will-the
 
 **Solution** :
 - JS [whereWillTheBallFall.js](./whereWillTheBallFall.js "Solution in JS") [LeetCode](https://leetcode.com/problems/where-will-the-ball-fall/submissions/885552670/)
+
+## Longest Common Prefix
+Here's the problem: [LeetCode Link](https://leetcode.com/problems/longest-common-prefix/description/)
+
+**Solution** :
+- JS [longestCommonPrefix.js](./longestCommonPrefix.js "Solution in JS") [LeetCode](https://leetcode.com/problems/longest-common-prefix/submissions/886288082/)
