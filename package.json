@@ -1,0 +1,32 @@
+{
+  "name": "practice-problemsolving",
+  "version": "1.0.0",
+  "description": "This repository is a collection of algorithm problems and answers, which are parts of my learning journey. Please feel free to give any feedback on the solutions.",
+  "main": "cleanTheRoom.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha \"test/**/*.test.js\" --recursive --require @babel/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeriYantodotDev/practice-ProblemSolving.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeriYantodotDev/practice-ProblemSolving/issues"
+  },
+  "homepage": "https://github.com/HeriYantodotDev/practice-ProblemSolving#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.18.9"
+  }
+}
