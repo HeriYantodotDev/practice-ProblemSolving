@@ -170,3 +170,11 @@ Here's the problem: [LeetCode Link](https://leetcode.com/problems/longest-common
 
 **Solution** :
 - JS [longestCommonPrefix.js](./longestCommonPrefix.js "Solution in JS") [LeetCode](https://leetcode.com/problems/longest-common-prefix/submissions/886288082/)
+
+## Multiply Strings
+Problem : [LeetCode Link](https://leetcode.com/problems/multiply-strings/description/)
+
+**Solution** :
+- JS [multiplyString.js](./multiplyString.js "Solution in JS") [LeetCode](https://leetcode.com/problems/multiply-strings/submissions/886810001/)
+
+
